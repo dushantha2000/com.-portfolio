@@ -1,25 +1,74 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import AboutMe from './AboutMe';
+import FirstPage from './FirstPage';
+import Experties from './Experties';
+import ProfessionalEx from './ProfessionalEx';
+import Education from './Education';
+import Work from './Work';
+import Getin from './Getin';
+import Final from './Final';
+import ViewProject1 from './ViewProject1'; 
+import ViewProject2 from './ViewProject2';   // Page for the second project
+  // Page for the third project// Import the project detail pages
 
-function App() {
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div>
+        <Routes>
+          <Route
+            exact
+            path="/"
+            element={
+              <>
+                <FirstPage />
+                <AboutMe />
+                <Experties />
+                <ProfessionalEx />
+                <Education />
+                <Work />
+                <Getin />
+                <Final />
+                
+              </>
+            }
+          />
+          <Route
+            exact
+            path="/Home"
+            element={
+              <>
+                <FirstPage />
+                <AboutMe />
+                <Experties />
+                <ProfessionalEx />
+                <Education />
+                <Work />
+                <Getin />
+                <Final />
+                
+              </>
+            }
+          />
+
+          <Route path="/About" element={<AboutMe />} />
+
+          <Route path="/Expertise" element={<Experties />} />
+
+          <Route path="/ProfessionalEx" element={<ProfessionalEx />} />
+
+          <Route path="/Education" element={<Education />} />
+
+          <Route path="/Work" element={<Work />} />
+
+          <Route path="/ViewProject1" element={<ViewProject1 />} />
+          <Route path="/ViewProject2" element={<ViewProject2 />} />
+           
+
+        </Routes>
+      </div>
+    </Router>
   );
 }
-
-export default App;
