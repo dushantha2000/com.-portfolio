@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# Dushantha Majith's Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my portfolio! I am **Dushantha Majith**, a **Full Stack Developer** with a passion for building innovative and functional websites and applications. My portfolio showcases my journey as a software engineer, my expertise in development, and some of the projects I have worked on. Feel free to explore and learn more about my skills, experience, and work.
 
-## Available Scripts
+## About Me
 
-In the project directory, you can run:
+I am a 24-year-old undergraduate at the **University of NIBM**, Sri Lanka, pursuing a degree in Software Engineering. I started my programming journey at the age of 17 and have since developed a strong foundation in computer science and software engineering. I have a particular interest in **backend technologies**, **UI/UX Development**, and **Machine Learning**.
 
-### `npm start`
+I am passionate about learning new technologies and am always looking for ways to improve my skills.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## My Expertise
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **UI/UX Development**: Figma, Adobe XD, Adobe Illustrator
+- **Frontend Development**: HTML, CSS, JavaScript, ReactJS, Bootstrap
+- **Backend Development**: Laravel, MongoDB, MySQL, Firebase
 
-### `npm test`
+## Volunteering Experience
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+I actively contribute to the **STEMUp Educational Foundation**, where I lead coding sessions and projects aimed at promoting **STEM education** in Sri Lanka. I help guide students in exploring technology, computer science, and programming, inspiring the next generation of tech enthusiasts.
 
-### `npm run build`
+**Key Responsibilities**:
+- Supporting the **Hour of Code** project, introducing coding to students in 100 schools.
+- Assisting in fostering interest in technology and computer science.
+- Promoting digital literacy through the **Code Club** project.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Education
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Higher National Diploma in Software Engineering**  
+  **University of NIBM**, 2023 - Present, Kandy, Sri Lanka
+- **Diploma in Software Engineering**  
+  **University of NIBM**, 2022 - 2023, Kandy, Sri Lanka
+- **Advanced Level**  
+  **Poramadulla Central College**, 2017 - 2019, Rikillagaskada, Sri Lanka
+- **Ordinary Level**  
+  **Gangapalatha M.M**, 2005 - 2016, Hanguranketha, Sri Lanka
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Get in Touch
 
-### `npm run eject`
+Feel free to reach out if you'd like to connect, collaborate, or learn more about my work. You can contact me through the following channels:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Phone**: +94788 824 998
+- **Email**: [majithdushantha@gmail.com](mailto:majithdushantha@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](#)
+- **GitHub**: [GitHub Profile](https://github.com/dushantha2000)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Together, let's create something extraordinary!
